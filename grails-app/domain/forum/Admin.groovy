@@ -1,6 +1,9 @@
 package forum
 
-class Admin {
+class Admin extends User {
+
+    int level
+    double rating
 
     static constraints = {
     }
