@@ -7,5 +7,9 @@ class File {
     double size
 
     static constraints = {
+
+        //Falta el match con el MIME
+        fileType(blank: false)
+
     }
 }
