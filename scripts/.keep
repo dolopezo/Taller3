@@ -1,0 +1,10 @@
+Este archivo se incluye para que Git incluya
+el archivo vacío en el repositorio, con fines
+de conservar la estructura de archivos del proyecto
+que genera Grails.
+
+Cuando se incluyan archivos del proyecto, este archivo
+se puede eliminar.
+
+Más información en 
+http://stackoverflow.com/questions/115983/how-do-i-add-an-empty-directory-to-a-git-repository?lq=1
