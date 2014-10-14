@@ -7,8 +7,10 @@ class Admin extends User {
 
     static constraints = {
 
-        level(min: 1, max: 5)
-        rating(min: 0 as double, max: 100 as double)
+        level(range:1..5)
+        rating(DoubleRange:0..100)
+		
 
     }
-}
+}    
+

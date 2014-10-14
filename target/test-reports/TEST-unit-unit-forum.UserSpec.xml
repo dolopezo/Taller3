@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="13" hostname="deshibasara" name="forum.UserSpec" tests="18" time="17.666" timestamp="2014-10-14T22:20:30">
+  <properties />
+  <testcase classname="forum.UserSpec" name="Test name 1" time="14.684">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test name 1(UserSpec.groovy:24)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test name 2" time="0.135">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test name 2(UserSpec.groovy:34)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test name 3" time="0.097">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test name 3(UserSpec.groovy:43)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test name 4" time="0.094" />
+  <testcase classname="forum.UserSpec" name="Test lastname 1" time="0.077">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test lastname 1(UserSpec.groovy:63)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test lastname 2" time="0.065">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test lastname 2(UserSpec.groovy:73)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test lastname 3" time="0.094">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test lastname 3(UserSpec.groovy:83)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test lastname 4" time="0.085" />
+  <testcase classname="forum.UserSpec" name="Test age 1" time="0.139">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test age 1(UserSpec.groovy:104)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test age 2" time="0.538">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test age 2(UserSpec.groovy:114)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test age 3" time="0.089" />
+  <testcase classname="forum.UserSpec" name="Test username 1" time="0.844">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test username 1(UserSpec.groovy:137)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test username 2" time="0.057" />
+  <testcase classname="forum.UserSpec" name="Test password 1" time="0.039">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password 1(UserSpec.groovy:160)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test password 2" time="0.09">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password 2(UserSpec.groovy:171)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test password 3" time="0.309">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password 3(UserSpec.groovy:181)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test password 4" time="0.043">
+    <failure message="Condition not satisfied:&#xa;&#xa;user.validate()&#xa;|    |&#xa;|    false&#xa;forum.User : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password 4(UserSpec.groovy:191)
+</failure>
+  </testcase>
+  <testcase classname="forum.UserSpec" name="Test password 5" time="0.04" />
+  <system-out><![CDATA[--Output from Test name 1--
+--Output from Test name 2--
+--Output from Test name 3--
+--Output from Test name 4--
+--Output from Test lastname 1--
+--Output from Test lastname 2--
+--Output from Test lastname 3--
+--Output from Test lastname 4--
+--Output from Test age 1--
+--Output from Test age 2--
+--Output from Test age 3--
+--Output from Test username 1--
+--Output from Test username 2--
+--Output from Test password 1--
+--Output from Test password 2--
+--Output from Test password 3--
+--Output from Test password 4--
+--Output from Test password 5--
+]]></system-out>
+  <system-err><![CDATA[--Output from Test name 1--
+--Output from Test name 2--
+--Output from Test name 3--
+--Output from Test name 4--
+--Output from Test lastname 1--
+--Output from Test lastname 2--
+--Output from Test lastname 3--
+--Output from Test lastname 4--
+--Output from Test age 1--
+--Output from Test age 2--
+--Output from Test age 3--
+--Output from Test username 1--
+--Output from Test username 2--
+--Output from Test password 1--
+--Output from Test password 2--
+--Output from Test password 3--
+--Output from Test password 4--
+--Output from Test password 5--
+]]></system-err>
+</testsuite>
