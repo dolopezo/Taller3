@@ -1,10 +1,11 @@
 Testsuite: forum.UserSpec
-Tests run: 18, Failures: 13, Errors: 0, Time elapsed: 17.666 sec
+Tests run: 19, Failures: 14, Errors: 0, Time elapsed: 18.618 sec
 ------------- Standard Output ---------------
 --Output from Test name 1--
 --Output from Test name 2--
 --Output from Test name 3--
 --Output from Test name 4--
+--Output from Test name 5--
 --Output from Test lastname 1--
 --Output from Test lastname 2--
 --Output from Test lastname 3--
@@ -25,6 +26,7 @@ Tests run: 18, Failures: 13, Errors: 0, Time elapsed: 17.666 sec
 --Output from Test name 2--
 --Output from Test name 3--
 --Output from Test name 4--
+--Output from Test name 5--
 --Output from Test lastname 1--
 --Output from Test lastname 2--
 --Output from Test lastname 3--
@@ -41,7 +43,7 @@ Tests run: 18, Failures: 13, Errors: 0, Time elapsed: 17.666 sec
 --Output from Test password 5--
 ------------- ---------------- ---------------
 
-Testcase: Test name 1 took 14.634 sec
+Testcase: Test name 1 took 16.856 sec
 	FAILED
 Condition not satisfied:
 
@@ -59,7 +61,7 @@ forum.User : (unsaved)
 
 	at forum.UserSpec.Test name 1(UserSpec.groovy:24)
 
-Testcase: Test name 2 took 0.131 sec
+Testcase: Test name 2 took 0.122 sec
 	FAILED
 Condition not satisfied:
 
@@ -77,7 +79,7 @@ forum.User : (unsaved)
 
 	at forum.UserSpec.Test name 2(UserSpec.groovy:34)
 
-Testcase: Test name 3 took 0.091 sec
+Testcase: Test name 3 took 0.044 sec
 	FAILED
 Condition not satisfied:
 
@@ -93,10 +95,9 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test name 3(UserSpec.groovy:43)
+	at forum.UserSpec.Test name 3(UserSpec.groovy:44)
 
-Testcase: Test name 4 took 0.094 sec
-Testcase: Test lastname 1 took 0.072 sec
+Testcase: Test name 4 took 0.102 sec
 	FAILED
 Condition not satisfied:
 
@@ -112,9 +113,10 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test lastname 1(UserSpec.groovy:63)
+	at forum.UserSpec.Test name 4(UserSpec.groovy:54)
 
-Testcase: Test lastname 2 took 0.061 sec
+Testcase: Test name 5 took 0.107 sec
+Testcase: Test lastname 1 took 0.053 sec
 	FAILED
 Condition not satisfied:
 
@@ -130,9 +132,9 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test lastname 2(UserSpec.groovy:73)
+	at forum.UserSpec.Test lastname 1(UserSpec.groovy:74)
 
-Testcase: Test lastname 3 took 0.09 sec
+Testcase: Test lastname 2 took 0.058 sec
 	FAILED
 Condition not satisfied:
 
@@ -148,10 +150,9 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test lastname 3(UserSpec.groovy:83)
+	at forum.UserSpec.Test lastname 2(UserSpec.groovy:84)
 
-Testcase: Test lastname 4 took 0.085 sec
-Testcase: Test age 1 took 0.13 sec
+Testcase: Test lastname 3 took 0.052 sec
 	FAILED
 Condition not satisfied:
 
@@ -167,9 +168,10 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test age 1(UserSpec.groovy:104)
+	at forum.UserSpec.Test lastname 3(UserSpec.groovy:94)
 
-Testcase: Test age 2 took 0.533 sec
+Testcase: Test lastname 4 took 0.055 sec
+Testcase: Test age 1 took 0.05 sec
 	FAILED
 Condition not satisfied:
 
@@ -185,10 +187,9 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test age 2(UserSpec.groovy:114)
+	at forum.UserSpec.Test age 1(UserSpec.groovy:114)
 
-Testcase: Test age 3 took 0.089 sec
-Testcase: Test username 1 took 0.841 sec
+Testcase: Test age 2 took 0.078 sec
 	FAILED
 Condition not satisfied:
 
@@ -204,10 +205,10 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test username 1(UserSpec.groovy:137)
+	at forum.UserSpec.Test age 2(UserSpec.groovy:124)
 
-Testcase: Test username 2 took 0.057 sec
-Testcase: Test password 1 took 0.035 sec
+Testcase: Test age 3 took 0.037 sec
+Testcase: Test username 1 took 0.415 sec
 	FAILED
 Condition not satisfied:
 
@@ -223,9 +224,10 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test password 1(UserSpec.groovy:160)
+	at forum.UserSpec.Test username 1(UserSpec.groovy:147)
 
-Testcase: Test password 2 took 0.086 sec
+Testcase: Test username 2 took 0.067 sec
+Testcase: Test password 1 took 0.028 sec
 	FAILED
 Condition not satisfied:
 
@@ -241,9 +243,9 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test password 2(UserSpec.groovy:171)
+	at forum.UserSpec.Test password 1(UserSpec.groovy:170)
 
-Testcase: Test password 3 took 0.302 sec
+Testcase: Test password 2 took 0.045 sec
 	FAILED
 Condition not satisfied:
 
@@ -259,9 +261,9 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test password 3(UserSpec.groovy:181)
+	at forum.UserSpec.Test password 2(UserSpec.groovy:181)
 
-Testcase: Test password 4 took 0.038 sec
+Testcase: Test password 3 took 0.04 sec
 	FAILED
 Condition not satisfied:
 
@@ -277,6 +279,24 @@ user.validate()
 |    false
 forum.User : (unsaved)
 
-	at forum.UserSpec.Test password 4(UserSpec.groovy:191)
+	at forum.UserSpec.Test password 3(UserSpec.groovy:191)
 
-Testcase: Test password 5 took 0.04 sec
+Testcase: Test password 4 took 0.047 sec
+	FAILED
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password 4(UserSpec.groovy:201)
+
+Testcase: Test password 5 took 0.034 sec
