@@ -7878,3 +7878,2155 @@ user.validate()
 forum.User : (unsaved)
 
 	at forum.UserSpec.Test password 4(UserSpec.groovy:201)
+2014-10-14 19:58:43,455 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test level(AdminSpec.groovy:42)
+2014-10-14 19:58:43,502 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test level(AdminSpec.groovy:42)
+2014-10-14 19:58:43,504 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test level(AdminSpec.groovy:42)
+2014-10-14 19:58:43,505 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test level(AdminSpec.groovy:42)
+2014-10-14 19:58:43,593 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test level(AdminSpec.groovy:42)
+2014-10-14 19:58:43,593 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test level(AdminSpec.groovy:42)
+2014-10-14 19:58:43,789 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 19:58:43,790 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 19:58:43,791 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 19:58:43,792 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 19:58:43,792 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 19:58:43,793 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 20:01:22,531 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 20:01:22,536 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 20:01:22,538 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 20:01:22,539 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 20:01:22,549 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 20:01:22,549 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.Admin : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:69)
+2014-10-14 20:03:34,753 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!admin.validate()
+||     |
+||     true
+|forum.Admin : (unsaved)
+false
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:03:34,761 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!admin.validate()
+||     |
+||     true
+|forum.Admin : (unsaved)
+false
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:03:34,764 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!admin.validate()
+||     |
+||     true
+|forum.Admin : (unsaved)
+false
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:03:34,764 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!admin.validate()
+||     |
+||     true
+|forum.Admin : (unsaved)
+false
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:03:34,772 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!admin.validate()
+||     |
+||     true
+|forum.Admin : (unsaved)
+false
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:03:34,772 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!admin.validate()
+||     |
+||     true
+|forum.Admin : (unsaved)
+false
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:07:51,406 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.User : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:07:51,412 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.User : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:07:51,414 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.User : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:07:51,415 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.User : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:07:51,422 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.User : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:07:51,423 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+admin.validate()
+|     |
+|     false
+forum.User : (unsaved)
+
+	at forum.AdminSpec.Test rating (AdminSpec.groovy:51)
+2014-10-14 20:28:34,450 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test strikesNumber(RegularSpec.groovy:48)
+2014-10-14 20:28:34,512 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test strikesNumber(RegularSpec.groovy:48)
+2014-10-14 20:28:34,514 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test strikesNumber(RegularSpec.groovy:48)
+2014-10-14 20:28:34,515 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test strikesNumber(RegularSpec.groovy:48)
+2014-10-14 20:28:34,699 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test strikesNumber(RegularSpec.groovy:48)
+2014-10-14 20:28:34,700 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test strikesNumber(RegularSpec.groovy:48)
+2014-10-14 20:28:34,782 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test starsNumber(RegularSpec.groovy:75)
+2014-10-14 20:28:34,783 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test starsNumber(RegularSpec.groovy:75)
+2014-10-14 20:28:34,783 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test starsNumber(RegularSpec.groovy:75)
+2014-10-14 20:28:34,783 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test starsNumber(RegularSpec.groovy:75)
+2014-10-14 20:28:34,784 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test starsNumber(RegularSpec.groovy:75)
+2014-10-14 20:28:34,784 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!regular.validate()
+||       |
+||       true
+|forum.User : (unsaved)
+false
+
+	at forum.RegularSpec.Test starsNumber(RegularSpec.groovy:75)
+2014-10-14 20:37:28,034 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test name(UserSpec.groovy:24)
+2014-10-14 20:37:28,078 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test name(UserSpec.groovy:24)
+2014-10-14 20:37:28,081 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test name(UserSpec.groovy:24)
+2014-10-14 20:37:28,081 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test name(UserSpec.groovy:24)
+2014-10-14 20:37:28,125 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test name(UserSpec.groovy:24)
+2014-10-14 20:37:28,125 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test name(UserSpec.groovy:24)
+2014-10-14 20:37:28,235 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test lastname(UserSpec.groovy:58)
+2014-10-14 20:37:28,236 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test lastname(UserSpec.groovy:58)
+2014-10-14 20:37:28,236 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test lastname(UserSpec.groovy:58)
+2014-10-14 20:37:28,237 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test lastname(UserSpec.groovy:58)
+2014-10-14 20:37:28,238 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test lastname(UserSpec.groovy:58)
+2014-10-14 20:37:28,238 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test lastname(UserSpec.groovy:58)
+2014-10-14 20:37:28,386 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test age(UserSpec.groovy:86)
+2014-10-14 20:37:28,387 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test age(UserSpec.groovy:86)
+2014-10-14 20:37:28,412 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test age(UserSpec.groovy:86)
+2014-10-14 20:37:28,412 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test age(UserSpec.groovy:86)
+2014-10-14 20:37:28,413 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test age(UserSpec.groovy:86)
+2014-10-14 20:37:28,413 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test age(UserSpec.groovy:86)
+2014-10-14 20:37:28,803 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test username(UserSpec.groovy:111)
+2014-10-14 20:37:28,804 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test username(UserSpec.groovy:111)
+2014-10-14 20:37:28,804 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test username(UserSpec.groovy:111)
+2014-10-14 20:37:28,805 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test username(UserSpec.groovy:111)
+2014-10-14 20:37:28,805 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test username(UserSpec.groovy:111)
+2014-10-14 20:37:28,805 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test username(UserSpec.groovy:111)
+2014-10-14 20:37:28,856 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password(UserSpec.groovy:128)
+2014-10-14 20:37:28,857 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password(UserSpec.groovy:128)
+2014-10-14 20:37:28,858 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password(UserSpec.groovy:128)
+2014-10-14 20:37:28,859 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password(UserSpec.groovy:128)
+2014-10-14 20:37:28,859 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password(UserSpec.groovy:128)
+2014-10-14 20:37:28,859 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+user.validate()
+|    |
+|    false
+forum.User : (unsaved)
+
+	at forum.UserSpec.Test password(UserSpec.groovy:128)
+2014-10-14 20:54:00,510 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:44)
+2014-10-14 20:54:00,547 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:44)
+2014-10-14 20:54:00,550 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:44)
+2014-10-14 20:54:00,551 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:44)
+2014-10-14 20:54:00,575 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:44)
+2014-10-14 20:54:00,575 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:44)
+2014-10-14 21:02:22,363 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getDateString() on null object
+	at forum.ForumSpec.test name(ForumSpec.groovy:29)
+2014-10-14 21:02:22,415 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getDateString() on null object
+	at forum.ForumSpec.test name(ForumSpec.groovy:29)
+2014-10-14 21:02:22,416 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getDateString() on null object
+	at forum.ForumSpec.test name(ForumSpec.groovy:29)
+2014-10-14 21:02:22,416 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getDateString() on null object
+	at forum.ForumSpec.test name(ForumSpec.groovy:29)
+2014-10-14 21:02:22,470 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getDateString() on null object
+	at forum.ForumSpec.test name(ForumSpec.groovy:29)
+2014-10-14 21:02:22,470 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method getDateString() on null object
+	at forum.ForumSpec.test name(ForumSpec.groovy:29)
+2014-10-14 21:26:20,133 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at forum.Forum._clinit__closure1(Forum.groovy)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.codehaus.groovy.grails.test.spock.GrailsSpecTestType.doRun(GrailsSpecTestType.groovy:147)
+	at org.codehaus.groovy.grails.test.support.GrailsTestTypeSupport.run(GrailsTestTypeSupport.groovy:121)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runTests(GrailsProjectTestRunner.groovy:415)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.processTests(GrailsProjectTestRunner.groovy:395)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests_closure7(GrailsProjectTestRunner.groovy:313)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:299)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:214)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.runInstance(ForkedGrailsTestRunner.groovy:128)
+	at org.codehaus.groovy.grails.cli.fork.ForkedGrailsProjectClassExecutor.run(ForkedGrailsProjectClassExecutor.groovy:74)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.main(ForkedGrailsTestRunner.groovy:75)
+2014-10-14 21:26:21,403 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:26:21,413 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:26:21,417 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:26:21,877 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:26:21,878 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:26:22,437 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at forum.Forum._clinit__closure1(Forum.groovy)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.codehaus.groovy.grails.test.spock.GrailsSpecTestType.doRun(GrailsSpecTestType.groovy:147)
+	at org.codehaus.groovy.grails.test.support.GrailsTestTypeSupport.run(GrailsTestTypeSupport.groovy:121)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runTests(GrailsProjectTestRunner.groovy:415)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.processTests(GrailsProjectTestRunner.groovy:395)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests_closure7(GrailsProjectTestRunner.groovy:313)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:299)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:214)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.runInstance(ForkedGrailsTestRunner.groovy:128)
+	at org.codehaus.groovy.grails.cli.fork.ForkedGrailsProjectClassExecutor.run(ForkedGrailsProjectClassExecutor.groovy:74)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.main(ForkedGrailsTestRunner.groovy:75)
+2014-10-14 21:26:22,440 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:26:22,588 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:26:22,590 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:26:22,597 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:26:22,599 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:15)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:32,985 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at forum.Forum._clinit__closure1(Forum.groovy)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.codehaus.groovy.grails.test.spock.GrailsSpecTestType.doRun(GrailsSpecTestType.groovy:147)
+	at org.codehaus.groovy.grails.test.support.GrailsTestTypeSupport.run(GrailsTestTypeSupport.groovy:121)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runTests(GrailsProjectTestRunner.groovy:415)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.processTests(GrailsProjectTestRunner.groovy:395)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests_closure7(GrailsProjectTestRunner.groovy:313)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:299)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:214)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.runInstance(ForkedGrailsTestRunner.groovy:128)
+	at org.codehaus.groovy.grails.cli.fork.ForkedGrailsProjectClassExecutor.run(ForkedGrailsProjectClassExecutor.groovy:74)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.main(ForkedGrailsTestRunner.groovy:75)
+2014-10-14 21:32:33,363 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:33,368 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:33,370 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:33,754 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:33,755 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:34,144 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at forum.Forum._clinit__closure1(Forum.groovy)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.codehaus.groovy.grails.test.spock.GrailsSpecTestType.doRun(GrailsSpecTestType.groovy:147)
+	at org.codehaus.groovy.grails.test.support.GrailsTestTypeSupport.run(GrailsTestTypeSupport.groovy:121)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runTests(GrailsProjectTestRunner.groovy:415)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.processTests(GrailsProjectTestRunner.groovy:395)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests_closure7(GrailsProjectTestRunner.groovy:313)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at groovy.lang.Closure.call(Closure.java:423)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:299)
+	at org.codehaus.groovy.grails.test.runner.GrailsProjectTestRunner.runAllTests(GrailsProjectTestRunner.groovy:214)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.runInstance(ForkedGrailsTestRunner.groovy:128)
+	at org.codehaus.groovy.grails.cli.fork.ForkedGrailsProjectClassExecutor.run(ForkedGrailsProjectClassExecutor.groovy:74)
+	at org.codehaus.groovy.grails.cli.fork.testing.ForkedGrailsTestRunner.main(ForkedGrailsTestRunner.groovy:75)
+2014-10-14 21:32:34,145 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:34,688 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:34,689 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:34,694 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:32:34,695 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: currentDate for class: org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder
+	at forum.Forum._clinit__closure1(Forum.groovy:16)
+	at org.grails.datastore.mapping.config.groovy.MappingConfigurationBuilder.evaluate(MappingConfigurationBuilder.groovy:83)
+	at org.grails.datastore.mapping.config.AbstractGormMappingFactory.createMappedForm(AbstractGormMappingFactory.java:63)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:39)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.GormKeyValueMappingFactory.createMappedForm(GormKeyValueMappingFactory.java:28)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValuePersistentEntity.<init>(KeyValuePersistentEntity.java:35)
+	at org.grails.datastore.mapping.keyvalue.mapping.config.KeyValueMappingContext.createPersistentEntity(KeyValueMappingContext.java:95)
+	at org.grails.datastore.mapping.model.AbstractMappingContext.addPersistentEntities(AbstractMappingContext.java:174)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomains(DomainClassUnitTestMixin.groovy:81)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:114)
+	at grails.test.mixin.domain.DomainClassUnitTestMixin.mockDomain(DomainClassUnitTestMixin.groovy:113)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.builtin.JUnitFixtureMethodsExtension$FixtureType$FixtureMethodInterceptor.intercept(JUnitFixtureMethodsExtension.java:145)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$1$2.evaluate(TestRuntimeJunitAdapter.groovy:48)
+	at org.spockframework.runtime.extension.builtin.TestRuleInterceptor.intercept(TestRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.util.ReflectionUtil.invokeMethod(ReflectionUtil.java:138)
+	at org.spockframework.runtime.extension.MethodInvocation.invokeTargetMethod(MethodInvocation.java:91)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:85)
+	at org.spockframework.runtime.extension.builtin.AbstractRuleInterceptor$1.evaluate(AbstractRuleInterceptor.java:37)
+	at grails.test.runtime.TestRuntimeJunitAdapter$3$4.evaluate(TestRuntimeJunitAdapter.groovy:74)
+	at org.spockframework.runtime.extension.builtin.ClassRuleInterceptor.intercept(ClassRuleInterceptor.java:38)
+	at org.spockframework.runtime.extension.MethodInvocation.proceed(MethodInvocation.java:84)
+2014-10-14 21:38:01,540 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:45)
+2014-10-14 21:38:01,668 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:45)
+2014-10-14 21:38:01,671 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:45)
+2014-10-14 21:38:01,671 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:45)
+2014-10-14 21:38:02,085 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:45)
+2014-10-14 21:38:02,085 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test name(ForumSpec.groovy:45)
+2014-10-14 21:38:02,529 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:38:02,530 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:38:02,531 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:38:02,531 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:38:02,532 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:38:02,532 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:42:52,823 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:42:52,927 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:42:52,930 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:42:52,930 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:42:53,100 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:42:53,100 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:46:40,026 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:46:40,254 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:46:40,257 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:46:40,257 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:46:40,609 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:46:40,610 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:60)
+2014-10-14 21:52:12,789 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:52:12,940 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:52:12,943 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:52:12,943 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:52:13,207 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:52:13,207 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:56:25,553 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:56:25,729 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:56:25,732 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:56:25,733 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:56:25,918 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:56:25,919 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:61)
+2014-10-14 21:59:44,220 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 21:59:44,314 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 21:59:44,315 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 21:59:44,316 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 21:59:44,392 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 21:59:44,393 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:06:06,125 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:06:06,260 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:06:06,264 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:06:06,265 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:06:06,550 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:06:06,550 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:15:58,105 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:15:58,186 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:15:58,189 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:15:58,189 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:15:58,303 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)
+2014-10-14 22:15:58,304 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+!forum.validate()
+||     |
+||     true
+|forum.Forum : (unsaved)
+false
+
+	at forum.ForumSpec.test date(ForumSpec.groovy:62)

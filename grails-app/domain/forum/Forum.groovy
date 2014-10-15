@@ -1,7 +1,8 @@
 package forum
+import java.lang.Object
 
 class Forum {
-
+	
     String name
     Date dateCreated
     String category

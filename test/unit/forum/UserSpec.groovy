@@ -15,127 +15,91 @@ class UserSpec extends Specification {
     def cleanup() {
     }
 	
-	void "Test name 1"() {
+	void "Test name"() {
 		
 		when: 'name length is lowest than 3'
-		def user = new User(name:"Te", lastName:"Testlastname", age: 14, username:"richi", password:"Mypass01")
+		def user = new User(name:"Te", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
 
 		then: 'validation should fail'
-		user.validate()
-		
-	}
-	
-	void "Test name 2"() {
+		!user.validate()
 		
 		 when: 'name length is greater than 50'
-		 def user = new User(name:"TestUserTestUserTestUserTestUserTestUserTestUserTestUser", lastName:"Testlastname", age: 14, username:"richi", password:"Mypass01")
+		 user = new User(name:"TestUserTestUserTestUserTestUserTestUserTestUserTestUser", lastName:"Testlastname", age: 14, username:"richi", password:"Mypass01")
  
 		 then: 'validation should pass'
-		 user.validate()
-		
-		}
-	
-	void "Test name 3"() {
+		 !user.validate()
 		
 		when: 'the name is blank'
-		def user = new User(name:'     ',lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
+		user = new User(name:'     ',lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
 
 		then: 'validation should fail'
-		user.validate()
-		
-	}
-	
-	void "Test name 4"() {
+		!user.validate()
 		
 		 when: 'Missing attribute name'
-		 def user = new User(lastName:"Testlastname", age:14, username:"TestUsername", password:"Mypass01")
+		 user = new User(lastName:"Testlastname", age:14, username:"TestUsername", password:"Mypass01")
  
 		 then: 'validation should fail'
-		 user.validate()
-		
-	}
-	
-	void "Test name 5"() {
+		 !user.validate()
 		
 		 when: 'the information is correct'
-		 def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
+		 user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
  
 		 then: 'validation should pass'
 		 user.validate()
 		
 		}
 	
-	void "Test lastname 1"() {		
+	void "Test lastname"() {		
 
 		when: 'lastname length is lowest than 3'
 		def user = new User(name:"TestUser", lastName:"Te", age: 14, username:"TestUsername", password:"Mypass01")
 
 		then: 'validation should fail'
-		user.validate()
-		
-	}
-	
-	void "Test lastname 2"() {
+		!user.validate()
 		
 		 when: 'lastname length is greater than 50'
-		 def user = new User(name:"TestUser", lastName:"TestlastnamesTestlastnamesTestlastnamesTestlastnamesTestlastnamesTestlastnames", age: 14, username:"TestUsername", password:"Mypass01")
+		 user = new User(name:"TestUser", lastName:"TestlastnamesTestlastnamesTestlastnamesTestlastnamesTestlastnamesTestlastnames", age: 14, username:"TestUsername", password:"Mypass01")
  
 		 then: 'validation should pass'
-		 user.validate()
-		
-		}
-	
-	void "Test lastname 3"() {
+		 !user.validate()
 		
 		 when: 'the lastname is blank'
-		 def user = new User(name:"TestUser", lastName:"           ", age: 14, username:"TestUsername", password:"Mypass01")
+		 user = new User(name:"TestUser", lastName:"           ", age: 14, username:"TestUsername", password:"Mypass01")
  
-		 then: 'validation should pass'
-		 user.validate()
-		
-		}
-	
-	void "Test lastname 4"() {
+		 then: 'validation should fail'
+		 !user.validate()		
 		
 		 when: 'the lastname is correct'
-		 def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
+		 user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
  
 		 then: 'validation should pass'
 		 user.validate()
 		
 		}
 	
-	void "Test age 1"() {
+	void "Test age"() {
 		
 		when: 'age is lowest than 13'
 		def user = new User(name:"TestUser", lastName:"Testlastname", age: 10, username:"TestUsername", password:"Mypass01")
 	
 		then: 'validation should fail'
-		user.validate()
-		
-	}
-	
-	void "Test age 2"() {
+		!user.validate()
 		
 		when: 'age is  blank'
-		def user = new User(name:"TestUser", lastName:"Testlastname", age:"   ", username:"TestUsername", password:"Mypass01")
+		user = new User(name:"TestUser", lastName:"Testlastname", age:"   ", username:"TestUsername", password:"Mypass01")
 	
 		then: 'validation should fail'
-		user.validate()
-		
-	}
-	
-	void "Test age 3"() {
+		!user.validate()
 		
 		 when: 'The age is correct'
-		 def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername2", password:"Mypass01")
+		 user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername2", password:"Mypass01")
  
 		 then: 'validation should pass'
 		 user.validate()
 		
 	}
 	
-	void "Test username 1"() {
+	void "Test username"() {
 		
 		def existingPerson = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
 		mockForConstraintsTests(User, [existingPerson])
@@ -144,68 +108,45 @@ class UserSpec extends Specification {
 		def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
 	
 		then: 'validation should fail'
-		user.validate()
+		!user.validate()
 		
-	}
-	
-	void "Test username 2"() {
-		
-		def existingPerson = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
-		mockForConstraintsTests(User, [existingPerson])
 		
 		when: 'username is not duplicate'
-		def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername2", password:"Mypass01")
+		user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername2", password:"Mypass01")
 
 		 then: 'validation should pass'
 		 user.validate()
 		
 	}
 	
-	void "Test password 1"() {
+	void "Test password"() {
 		
 		when: 'the password does not contain an uppercase'
 		def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"mypass01")
 	
 		then: 'validation should fail'
-		user.validate()
-		
-	}
-	
-	void "Test password 2"() {
-		
+		!user.validate()		
 		
 		when: 'the password does not contain an lowercase'
-		def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"MYPASS01")
+		user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"MYPASS01")
 	
 		then: 'validation should fail'
-		user.validate()
-		
-	}
-	
-	void "Test password 3"() {
+		!user.validate()
 		
 		when: 'the password length is lowest than 8'
-		def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"mySS01")
+		user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"mySS01")
 	
 		 then:  'validation should fail'
-		 user.validate()
-		
-	}
-	
-	void "Test password 4"() {
+		 !user.validate()
 		
 		when: 'the password is blank'
-		def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"")
+		user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"")
 	
 		 then:  'validation should fail'
-		 user.validate()
-		
-	}
-	
-	void "Test password 5"() {
+		 !user.validate()
 		
 		when: 'the password is correct'
-		def user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
+		user = new User(name:"TestUser", lastName:"Testlastname", age: 14, username:"TestUsername", password:"Mypass01")
 	
 		 then: 'validation should pass'
 		 user.validate()		
