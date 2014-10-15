@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 import anuncialo.*
 import grails.util.GrailsUtil
@@ -24,3 +25,12 @@ class BootStrap {
   def destroy = {
   }
 }
+=======
+class BootStrap {
+
+    def init = { servletContext ->
+    }
+    def destroy = {
+    }
+}
+>>>>>>> 365c3c9272a31ae581e4e78a977e8f5012d8d5af

@@ -1,0 +1,16 @@
+Testsuite: forum.ForumSpec
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 13.825 sec
+------------- Standard Output ---------------
+--Output from test name--
+--Output from test date--
+--Output from test category--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test name--
+--Output from test date--
+--Output from test category--
+------------- ---------------- ---------------
+
+Testcase: test name took 13.393 sec
+Testcase: test date took 0.138 sec
+Testcase: test category took 0.072 sec

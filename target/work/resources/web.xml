@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" metadata-complete="true" version="3.0" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
 
+<<<<<<< HEAD
     <display-name>/anUNcialo-development-0.1</display-name>
+=======
+    <display-name>/forum-development-0.1</display-name>
+>>>>>>> 365c3c9272a31ae581e4e78a977e8f5012d8d5af
 
     <context-param>
         <param-name>contextConfigLocation</param-name>
@@ -9,7 +13,11 @@
 
     <context-param>
         <param-name>webAppRootKey</param-name>
+<<<<<<< HEAD
         <param-value>anUNcialo-development-0.1</param-value>
+=======
+        <param-value>forum-development-0.1</param-value>
+>>>>>>> 365c3c9272a31ae581e4e78a977e8f5012d8d5af
     </context-param>
   <context-param>
     <param-name>sample</param-name>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>anUNcialo</name>
+=======
+	<name>forum</name>
+>>>>>>> 365c3c9272a31ae581e4e78a977e8f5012d8d5af
 	<comment></comment>
 	<projects>
 	</projects>
@@ -26,7 +30,11 @@
 		<link>
 			<name>.link_to_grails_plugins</name>
 			<type>2</type>
+<<<<<<< HEAD
 			<location>C:/Users/Richar/Documents/GitHub/anUNcialo/target/work/plugins</location>
+=======
+			<location>C:/Users/Richar/Documents/Mini proyecto software/forum/target/work/plugins</location>
+>>>>>>> 365c3c9272a31ae581e4e78a977e8f5012d8d5af
 		</link>
 	</linkedResources>
 </projectDescription>

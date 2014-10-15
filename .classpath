@@ -142,5 +142,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.grails.ide.eclipse.core.CLASSPATH_CONTAINER"/>
+<<<<<<< HEAD
+=======
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+>>>>>>> 365c3c9272a31ae581e4e78a977e8f5012d8d5af
 	<classpathentry kind="output" path="target-eclipse/classes"/>
 </classpath>

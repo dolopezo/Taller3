@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="deshibasara" name="forum.ForumSpec" tests="3" time="13.825" timestamp="2014-10-15T03:26:49">
+  <properties />
+  <testcase classname="forum.ForumSpec" name="test name" time="13.393" />
+  <testcase classname="forum.ForumSpec" name="test date" time="0.138" />
+  <testcase classname="forum.ForumSpec" name="test category" time="0.072" />
+  <system-out><![CDATA[--Output from test name--
+--Output from test date--
+--Output from test category--
+]]></system-out>
+  <system-err><![CDATA[--Output from test name--
+--Output from test date--
+--Output from test category--
+]]></system-err>
+</testsuite>
